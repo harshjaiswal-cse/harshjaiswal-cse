@@ -124,14 +124,8 @@ https://harsh-portfolio-mv3q.vercel.app/
 - **AWS Cloud Solutions Virtual Experience** — Amazon Web Services  
   🔗 https://www.theforage.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_6958c1eabeda68c4731966a2_1767516768827_completion_certificate.pdf  
 
-- **Introduction to Generative AI** — Google Cloud & Simplilearn  
-  🔗 https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIzODA3IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6Ly9jZXJ0aWZpY2F0ZXMuc2ltcGxpY2RuLm5ldC9zaGFyZS85MDcxNDczXzk0NDMzMzQxNzU5MjA2NTY0NDQ4OC5wbmci  
-
 - **Oracle Certified Associate: AI Foundations (2025)** — Oracle  
   🔗 https://catalog-education.oracle.com/ords/certview/sharebadge?id=D3F87984B8356A111FFBDD4B63FC06A244F30B1EFBCCFAE4148497C24903E07F  
-
-- **Prompt Engineering with GitHub Copilot** — Microsoft & Simplilearn  
-  🔗 https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI0NzU3IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6Ly9jZXJ0aWZpY2F0ZXMuc2ltcGxpY2RuLm5ldC9zaGFyZS85MDcxODQ4Xzk0NDMzMzQxNzU5MjEwMTM1ODEwLnBuZy
 
  ---
 
@@ -139,14 +133,6 @@ https://harsh-portfolio-mv3q.vercel.app/
 
 - Daily LeetCode practice with consistent commits
 - Focus on DSA, backend APIs, and performance optimization
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshjaiswal-cse&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshjaiswal-cse" />
-</p>
 
 ---
 
